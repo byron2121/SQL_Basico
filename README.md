@@ -1,2 +1,2 @@
 # SQL_Basico
-aprende SQL desde cero (www.nose.com)[follow me]
+aprende SQL desde cero [follow me](www.nose.com)
