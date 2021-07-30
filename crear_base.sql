@@ -32,6 +32,9 @@ insert into byron.gastos values(id_mes,400);
 insert into byron.gastos values(id_mes,700);
 insert into byron.gastos values(id_mes,1000);
 
+#ACTUALIZAR TABLA GASTOS
+Update byron.gastos set gastos_mes=2000 where id_mes=3;
+
 #VISUALIZAR TABLA MES
 select*from byron.mes;
 
